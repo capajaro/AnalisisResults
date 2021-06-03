@@ -1,107 +1,107 @@
-ID,¿En que Ciudad o Municipio resides?,¿Qué edad tienes?,¿Comparas precios al momento de realizar una compra?,¿Cuántas opciones revisas?,¿Realizas compras por internet y-o plataformas digitales?,Ordena por orden de importancia los  factores más relevante al momento de realizar la compra final a través de una plataforma digital,Usualmente- porque medio adquiere sus productos farmacéuticos en tiempo de pandemia,¿Cuál de estos factores es más relevante al momento de realizar la compra final de productos farmacéuticos  a través de una plataforma digital?,¿ A través de que dispositivos realizas las compras por internet?
-1,Barranquilla,24,Si,4 a 8,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Distancia - tiempo del domicilio ,Smartphone
-2,Barranquilla,26,Si,2 a 4,Si,Distancia - Tiempo de Domicilio-Precio-Calidad-,Servicios a domicilio a través de plataforma digital,Distancia - tiempo del domicilio ,Smartphone
-3,Barranquilla,27,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,,Computador de mesa 
-4,Barranquilla,22,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Distancia - tiempo del domicilio ,Smartphone
-5,Barranquilla,40,Si,2 a 4,Si,Distancia - Tiempo de Domicilio-Calidad-Precio-,Servicios a domicilio a través de llamada telefónica ,,Smartphone
-6,Barranquilla,26,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Precio,Smartphone
-7,Barranquilla ,45,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,,Smartphone
-8,Barranquilla,27,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,,Smartphone
-9,Barranquilla,26,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,,Smartphone
-10,Bogota,29,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,,Smartphone
-11,Barranquilla,27,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Distancia - tiempo del domicilio ,Portatil
-12,Codazzi - Cesar,22,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,,Smartphone
-13,Galapa ,20,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Distancia - tiempo del domicilio ,Smartphone
-14,SOLEDAD,25,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,,Smartphone
-15,Barranquilla,25,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,,Smartphone
-16,Barranquilla,25,Si,4 a 8,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Precio,Portatil
-18,Bogotá ,28,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Precio,Computador de mesa 
-19,Barranquilla,25,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,,Computador de mesa 
-20,Barranquilla,20,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,,Smartphone
-22,BARRANQUILLA,26,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,,Smartphone
-23,Barranquilla,27,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,,Portatil
-24,Barranquilla,28,Si,4 a 8,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Precio,Computador de mesa 
-25,Barranquilla,23,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,,Portatil
-26,Barranquilla,24,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Distancia - tiempo del domicilio ,Smartphone
-27,Barranquilla,50,Si,2 a 4,Si,Precio-Distancia - Tiempo de Domicilio-Calidad-,Servicios a domicilio a través de plataforma digital,Precio,Smartphone
-28,Bogotá,22,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,,Smartphone
-29,Barranquilla,45,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,,Portatil
-30,Bogotá ,33,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,,Smartphone
-31,Barranquilla ,47,Si,4 a 8,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,,Smartphone
-32,Medellín ,25,Si,2 a 4,Si,Calidad-Distancia - Tiempo de Domicilio-Precio-,Presencial en el punto de venta,,Smartphone
-33,Bogotá,29,Si,2 a 4,Si,Calidad-Distancia - Tiempo de Domicilio-Precio-,Servicios a domicilio a través de plataforma digital,Distancia - tiempo del domicilio ,Smartphone
-34,Santa Marta,46,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,,Smartphone
-35,Soledad,47,Si,4 a 8,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,,Portatil
-36,Medellín,22,Si,2 a 4,Si,Distancia - Tiempo de Domicilio-Precio-Calidad-,Servicios a domicilio a través de llamada telefónica ,,Smartphone
-37,Barranquilla ,47,Si,4 a 8,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,,Smartphone
-38,Barranquilla,27,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,,Smartphone
-39,Madrid- Cundinamarca,31,No,,Si,Calidad-Distancia - Tiempo de Domicilio-Precio-,Servicios a domicilio a través de plataforma digital,Distancia - tiempo del domicilio ,Smartphone
-40,Soledad Atlántico,20,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,,Smartphone
-41,Riohacha ,32,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Distancia - tiempo del domicilio ,Smartphone
-42,Barranquilla,26,Si,8 o más ,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Precio,Smartphone
-43,Malambo,25,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,,Smartphone
-45,Soledad,21,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,,Smartphone
-46,Baranoa ,32,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,,Portatil
-47,Yumbo,29,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,,Portatil
-48,Sahagún ,21,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,,Portatil
-50,Barranquilla,25,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,,Computador de mesa 
-51,Bogota,33,Si,2 a 4,Si,Precio-Distancia - Tiempo de Domicilio-Calidad-,Servicios a domicilio a través de plataforma digital,Precio,Smartphone
-52,BARRANQUILLA,50,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,,Smartphone
-53,Barranquilla,24,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,,Computador de mesa 
-54,Medellín,26,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Distancia - tiempo del domicilio ,Portatil
-55,Bogotá,46,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,,Smartphone
-56,Barranquilla,31,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Distancia - tiempo del domicilio ,Smartphone
-57,Galapa,20,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,,Smartphone
-58,Barranquilla,22,Si,4 a 8,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,,Portatil
-59,Soledad Atlántico ,23,Si,1,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,,Smartphone
-60,Barranquilla,27,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Precio,Smartphone
-61,Atlántico ,21,Si,2 a 4,Si,Precio-Distancia - Tiempo de Domicilio-Calidad-,Servicios a domicilio a través de llamada telefónica ,,Smartphone
-62,Barranquilla,45,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Precio,Portatil
-63,Barranquilla ,49,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,,Smartphone
-64,Barranquilla ,49,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,,Smartphone
-65,Popayán,25,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,,Smartphone
-66,Popayán- Cauca,25,Si,4 a 8,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,,Portatil
-67,POPAYAN,36,Si,2 a 4,Si,Calidad-Distancia - Tiempo de Domicilio-Precio-,Servicios a domicilio a través de llamada telefónica ,,Portatil
-68,Bogota,53,Si,2 a 4,Si,Distancia - Tiempo de Domicilio-Calidad-Precio-,Presencial en el punto de venta,,Computador de mesa 
-70,Soledad,26,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Precio,Computador de mesa 
-17,Barranquilla ,24,Si,2 a 4,No,,Presencial en el punto de venta,,Portatil
-21,Bogotá,37,Si,2 a 4,No,,Presencial en el punto de venta,,Smartphone
-44,Bogota,35,Si,2 a 4,No,,Presencial en el punto de venta,,Smartphone
-49,Barranquilla,24,Si,2 a 4,No,,Presencial en el punto de venta,,Smartphone
-69,Soledad,43,Si,2 a 4,No,,Servicios a domicilio a través de llamada telefónica ,,Portatil
-71,Santa marta,51,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Precio,Smartphone
-72,Popayán,33,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,,Computador de mesa 
-73,Popayán ,25,Si,4 a 8,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Precio,Smartphone
-74,Soledad,35,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,,Smartphone
-75,Barranquilla ,24,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,,Smartphone
-76,Soledad ,28,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,,Smartphone
-77,Cartagena,25,Si,4 a 8,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,,Smartphone
-78,Barranquilla ,27,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,,Smartphone
-80,Barranquilla ,28,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,,Smartphone
-81,Barranquilla,31,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,,Computador de mesa 
-82,Atlantico,36,Si,2 a 4,Si,Distancia - Tiempo de Domicilio-Precio-Calidad-,Servicios a domicilio a través de plataforma digital,Precio,Smartphone
-83,Barranquilla,25,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,,Computador de mesa 
-85,Malambo,27,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,,Smartphone
-86,Barranquilla,30,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,,Smartphone
-87,Galapa ,20,No,,Si,Distancia - Tiempo de Domicilio-Calidad-Precio-,Servicios a domicilio a través de llamada telefónica ,,Smartphone
-88,Bogotá,23,Si,2 a 4,Si,Precio-Distancia - Tiempo de Domicilio-Calidad-,Servicios a domicilio a través de plataforma digital,Precio,Portatil
-89,Soledad ,27,Si,1,Si,Calidad-Distancia - Tiempo de Domicilio-Precio-,Servicios a domicilio a través de llamada telefónica ,,Smartphone
-90,Popayan,26,Si,2 a 4,Si,Calidad-Distancia - Tiempo de Domicilio-Precio-,Presencial en el punto de venta,,Smartphone
-91,Popayan,25,Si,8 o más ,Si,Precio-Distancia - Tiempo de Domicilio-Calidad-,Presencial en el punto de venta,,Smartphone
-92,Popayán,22,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,,Smartphone
-93,Palmira,24,Si,2 a 4,Si,Precio-Distancia - Tiempo de Domicilio-Calidad-,Presencial en el punto de venta,,Smartphone
-94,Popayán ,25,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,,Smartphone
-95,Santa Marta ,20,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,,Portatil
-96,Popayán,25,Si,1,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,,Smartphone
-97,Barranquilla,68,Si,2 a 4,Si,Distancia - Tiempo de Domicilio-Calidad-Precio-,Servicios a domicilio a través de llamada telefónica ,,Computador de mesa 
-99,Galapa,21,Si,4 a 8,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,,Smartphone
-100,Barranquilla,28,Si,4 a 8,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Distancia - tiempo del domicilio ,Smartphone
-101,Bogota,47,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Precio,Smartphone
-102,Estado de México ,23,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,,Smartphone
-103,Bogotá,17,Si,2 a 4,Si,Distancia - Tiempo de Domicilio-Calidad-Precio-,Servicios a domicilio a través de plataforma digital,Precio,Smartphone
-104,Tunja,44,Si,4 a 8,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,,Computador de mesa 
-105,Bogota,29,Si,1,Si,Precio-Distancia - Tiempo de Domicilio-Calidad-,Servicios a domicilio a través de plataforma digital,Precio,Portatil
-106,Bogotá,31,Si,2 a 4,Si,Precio-Distancia - Tiempo de Domicilio-Calidad-,Presencial en el punto de venta,,Computador de mesa 
-79,Galapa,20,Si,2 a 4,No,,Presencial en el punto de venta,,Smartphone
-84,Barranquilla,26,Si,2 a 4,No,,Servicios a domicilio a través de llamada telefónica ,,Smartphone
-98,Popayán,23,Si,2 a 4,No,,Presencial en el punto de venta,,Portatil
+ID,¿En que Ciudad o Municipio resides?,¿Qué edad tienes?,¿Comparas precios al momento de realizar una compra?,¿Cuántas opciones revisas?,¿Realizas compras por internet y-o plataformas digitales?,Ordena por orden de importancia los  factores más relevante al momento de realizar la compra final a través de una plataforma digital,Usualmente- porque medio adquiere sus productos farmacéuticos en tiempo de pandemia,Q3,¿Cuál de estos factores es más relevante al momento de realizar la compra final de productos farmacéuticos  a través de una plataforma digital?,¿ A través de que dispositivos realizas las compras por internet?
+1,Barranquilla,24,Si,4 a 8,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Servicios a domicilio \na través de \nplataforma digital,Distancia - tiempo del domicilio ,Smartphone
+2,Barranquilla,26,Si,2 a 4,Si,Distancia - Tiempo de Domicilio-Precio-Calidad-,Servicios a domicilio a través de plataforma digital,Servicios a domicilio \na través de \nplataforma digital,Distancia - tiempo del domicilio ,Smartphone
+3,Barranquilla,27,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,Servicios a domicilio \na través de \nllamada telefónica,,Computador de mesa 
+4,Barranquilla,22,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Servicios a domicilio \na través de \nplataforma digital,Distancia - tiempo del domicilio ,Smartphone
+5,Barranquilla,40,Si,2 a 4,Si,Distancia - Tiempo de Domicilio-Calidad-Precio-,Servicios a domicilio a través de llamada telefónica ,Servicios a domicilio \na través de \nllamada telefónica,,Smartphone
+6,Barranquilla,26,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Servicios a domicilio \na través de \nplataforma digital,Precio,Smartphone
+7,Barranquilla ,45,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,Servicios a domicilio \na través de \nllamada telefónica,,Smartphone
+8,Barranquilla,27,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,Servicios a domicilio \na través de \nllamada telefónica,,Smartphone
+9,Barranquilla,26,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,Presencial en \nel punto de venta,,Smartphone
+10,Bogota,29,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,Servicios a domicilio \na través de \nllamada telefónica,,Smartphone
+11,Barranquilla,27,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Servicios a domicilio \na través de \nplataforma digital,Distancia - tiempo del domicilio ,Portatil
+12,Codazzi - Cesar,22,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,Presencial en \nel punto de venta,,Smartphone
+13,Galapa ,20,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Servicios a domicilio \na través de \nplataforma digital,Distancia - tiempo del domicilio ,Smartphone
+14,SOLEDAD,25,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,Presencial en \nel punto de venta,,Smartphone
+15,Barranquilla,25,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,Presencial en \nel punto de venta,,Smartphone
+16,Barranquilla,25,Si,4 a 8,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Servicios a domicilio \na través de \nplataforma digital,Precio,Portatil
+18,Bogotá ,28,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Servicios a domicilio \na través de \nplataforma digital,Precio,Computador de mesa 
+19,Barranquilla,25,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,Presencial en \nel punto de venta,,Computador de mesa 
+20,Barranquilla,20,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,Presencial en \nel punto de venta,,Smartphone
+22,BARRANQUILLA,26,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,Presencial en \nel punto de venta,,Smartphone
+23,Barranquilla,27,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,Servicios a domicilio \na través de \nllamada telefónica,,Portatil
+24,Barranquilla,28,Si,4 a 8,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Servicios a domicilio \na través de \nplataforma digital,Precio,Computador de mesa 
+25,Barranquilla,23,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,Servicios a domicilio \na través de \nllamada telefónica,,Portatil
+26,Barranquilla,24,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Servicios a domicilio \na través de \nplataforma digital,Distancia - tiempo del domicilio ,Smartphone
+27,Barranquilla,50,Si,2 a 4,Si,Precio-Distancia - Tiempo de Domicilio-Calidad-,Servicios a domicilio a través de plataforma digital,Servicios a domicilio \na través de \nplataforma digital,Precio,Smartphone
+28,Bogotá,22,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,Presencial en \nel punto de venta,,Smartphone
+29,Barranquilla,45,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,Servicios a domicilio \na través de \nllamada telefónica,,Portatil
+30,Bogotá ,33,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,Presencial en \nel punto de venta,,Smartphone
+31,Barranquilla ,47,Si,4 a 8,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,Servicios a domicilio \na través de \nllamada telefónica,,Smartphone
+32,Medellín ,25,Si,2 a 4,Si,Calidad-Distancia - Tiempo de Domicilio-Precio-,Presencial en el punto de venta,Presencial en \nel punto de venta,,Smartphone
+33,Bogotá,29,Si,2 a 4,Si,Calidad-Distancia - Tiempo de Domicilio-Precio-,Servicios a domicilio a través de plataforma digital,Servicios a domicilio \na través de \nplataforma digital,Distancia - tiempo del domicilio ,Smartphone
+34,Santa Marta,46,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,Presencial en \nel punto de venta,,Smartphone
+35,Soledad,47,Si,4 a 8,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,Servicios a domicilio \na través de \nllamada telefónica,,Portatil
+36,Medellín,22,Si,2 a 4,Si,Distancia - Tiempo de Domicilio-Precio-Calidad-,Servicios a domicilio a través de llamada telefónica ,Servicios a domicilio \na través de \nllamada telefónica,,Smartphone
+37,Barranquilla ,47,Si,4 a 8,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,Servicios a domicilio \na través de \nllamada telefónica,,Smartphone
+38,Barranquilla,27,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,Servicios a domicilio \na través de \nllamada telefónica,,Smartphone
+39,Madrid- Cundinamarca,31,No,,Si,Calidad-Distancia - Tiempo de Domicilio-Precio-,Servicios a domicilio a través de plataforma digital,Servicios a domicilio \na través de \nplataforma digital,Distancia - tiempo del domicilio ,Smartphone
+40,Soledad Atlántico,20,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,Presencial en \nel punto de venta,,Smartphone
+41,Riohacha ,32,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Servicios a domicilio \na través de \nplataforma digital,Distancia - tiempo del domicilio ,Smartphone
+42,Barranquilla,26,Si,8 o más ,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Servicios a domicilio \na través de \nplataforma digital,Precio,Smartphone
+43,Malambo,25,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,Presencial en \nel punto de venta,,Smartphone
+45,Soledad,21,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,Presencial en \nel punto de venta,,Smartphone
+46,Baranoa ,32,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,Presencial en \nel punto de venta,,Portatil
+47,Yumbo,29,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,Presencial en \nel punto de venta,,Portatil
+48,Sahagún ,21,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,Presencial en \nel punto de venta,,Portatil
+50,Barranquilla,25,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,Presencial en \nel punto de venta,,Computador de mesa 
+51,Bogota,33,Si,2 a 4,Si,Precio-Distancia - Tiempo de Domicilio-Calidad-,Servicios a domicilio a través de plataforma digital,Servicios a domicilio \na través de \nplataforma digital,Precio,Smartphone
+52,BARRANQUILLA,50,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,Servicios a domicilio \na través de \nllamada telefónica,,Smartphone
+53,Barranquilla,24,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,Presencial en \nel punto de venta,,Computador de mesa 
+54,Medellín,26,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Servicios a domicilio \na través de \nplataforma digital,Distancia - tiempo del domicilio ,Portatil
+55,Bogotá,46,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,Servicios a domicilio \na través de \nllamada telefónica,,Smartphone
+56,Barranquilla,31,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Servicios a domicilio \na través de \nplataforma digital,Distancia - tiempo del domicilio ,Smartphone
+57,Galapa,20,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,Presencial en \nel punto de venta,,Smartphone
+58,Barranquilla,22,Si,4 a 8,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,Servicios a domicilio \na través de \nllamada telefónica,,Portatil
+59,Soledad Atlántico ,23,Si,1,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,Servicios a domicilio \na través de \nllamada telefónica,,Smartphone
+60,Barranquilla,27,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Servicios a domicilio \na través de \nplataforma digital,Precio,Smartphone
+61,Atlántico ,21,Si,2 a 4,Si,Precio-Distancia - Tiempo de Domicilio-Calidad-,Servicios a domicilio a través de llamada telefónica ,Servicios a domicilio \na través de \nllamada telefónica,,Smartphone
+62,Barranquilla,45,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Servicios a domicilio \na través de \nplataforma digital,Precio,Portatil
+63,Barranquilla ,49,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,Servicios a domicilio \na través de \nllamada telefónica,,Smartphone
+64,Barranquilla ,49,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,Servicios a domicilio \na través de \nllamada telefónica,,Smartphone
+65,Popayán,25,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,Presencial en \nel punto de venta,,Smartphone
+66,Popayán- Cauca,25,Si,4 a 8,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,Presencial en \nel punto de venta,,Portatil
+67,POPAYAN,36,Si,2 a 4,Si,Calidad-Distancia - Tiempo de Domicilio-Precio-,Servicios a domicilio a través de llamada telefónica ,Servicios a domicilio \na través de \nllamada telefónica,,Portatil
+68,Bogota,53,Si,2 a 4,Si,Distancia - Tiempo de Domicilio-Calidad-Precio-,Presencial en el punto de venta,Presencial en \nel punto de venta,,Computador de mesa 
+70,Soledad,26,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Servicios a domicilio \na través de \nplataforma digital,Precio,Computador de mesa 
+17,Barranquilla ,24,Si,2 a 4,No,,Presencial en el punto de venta,Presencial en \nel punto de venta,,Portatil
+21,Bogotá,37,Si,2 a 4,No,,Presencial en el punto de venta,Presencial en \nel punto de venta,,Smartphone
+44,Bogota,35,Si,2 a 4,No,,Presencial en el punto de venta,Presencial en \nel punto de venta,,Smartphone
+49,Barranquilla,24,Si,2 a 4,No,,Presencial en el punto de venta,Presencial en \nel punto de venta,,Smartphone
+69,Soledad,43,Si,2 a 4,No,,Servicios a domicilio a través de llamada telefónica ,Servicios a domicilio \na través de \nllamada telefónica,,Portatil
+71,Santa marta,51,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Servicios a domicilio \na través de \nplataforma digital,Precio,Smartphone
+72,Popayán,33,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,Servicios a domicilio \na través de \nllamada telefónica,,Computador de mesa 
+73,Popayán ,25,Si,4 a 8,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Servicios a domicilio \na través de \nplataforma digital,Precio,Smartphone
+74,Soledad,35,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,Servicios a domicilio \na través de \nllamada telefónica,,Smartphone
+75,Barranquilla ,24,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,Presencial en \nel punto de venta,,Smartphone
+76,Soledad ,28,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,Presencial en \nel punto de venta,,Smartphone
+77,Cartagena,25,Si,4 a 8,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,Servicios a domicilio \na través de \nllamada telefónica,,Smartphone
+78,Barranquilla ,27,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,Presencial en \nel punto de venta,,Smartphone
+80,Barranquilla ,28,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,Servicios a domicilio \na través de \nllamada telefónica,,Smartphone
+81,Barranquilla,31,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,Servicios a domicilio \na través de \nllamada telefónica,,Computador de mesa 
+82,Atlantico,36,Si,2 a 4,Si,Distancia - Tiempo de Domicilio-Precio-Calidad-,Servicios a domicilio a través de plataforma digital,Servicios a domicilio \na través de \nplataforma digital,Precio,Smartphone
+83,Barranquilla,25,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,Servicios a domicilio \na través de \nllamada telefónica,,Computador de mesa 
+85,Malambo,27,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,Presencial en \nel punto de venta,,Smartphone
+86,Barranquilla,30,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,Presencial en \nel punto de venta,,Smartphone
+87,Galapa ,20,No,,Si,Distancia - Tiempo de Domicilio-Calidad-Precio-,Servicios a domicilio a través de llamada telefónica ,Servicios a domicilio \na través de \nllamada telefónica,,Smartphone
+88,Bogotá,23,Si,2 a 4,Si,Precio-Distancia - Tiempo de Domicilio-Calidad-,Servicios a domicilio a través de plataforma digital,Servicios a domicilio \na través de \nplataforma digital,Precio,Portatil
+89,Soledad ,27,Si,1,Si,Calidad-Distancia - Tiempo de Domicilio-Precio-,Servicios a domicilio a través de llamada telefónica ,Servicios a domicilio \na través de \nllamada telefónica,,Smartphone
+90,Popayan,26,Si,2 a 4,Si,Calidad-Distancia - Tiempo de Domicilio-Precio-,Presencial en el punto de venta,Presencial en \nel punto de venta,,Smartphone
+91,Popayan,25,Si,8 o más ,Si,Precio-Distancia - Tiempo de Domicilio-Calidad-,Presencial en el punto de venta,Presencial en \nel punto de venta,,Smartphone
+92,Popayán,22,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,Presencial en \nel punto de venta,,Smartphone
+93,Palmira,24,Si,2 a 4,Si,Precio-Distancia - Tiempo de Domicilio-Calidad-,Presencial en el punto de venta,Presencial en \nel punto de venta,,Smartphone
+94,Popayán ,25,Si,2 a 4,Si,Precio-Calidad-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,Presencial en \nel punto de venta,,Smartphone
+95,Santa Marta ,20,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,Servicios a domicilio \na través de \nllamada telefónica,,Portatil
+96,Popayán,25,Si,1,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,Presencial en \nel punto de venta,,Smartphone
+97,Barranquilla,68,Si,2 a 4,Si,Distancia - Tiempo de Domicilio-Calidad-Precio-,Servicios a domicilio a través de llamada telefónica ,Servicios a domicilio \na través de \nllamada telefónica,,Computador de mesa 
+99,Galapa,21,Si,4 a 8,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Presencial en el punto de venta,Presencial en \nel punto de venta,,Smartphone
+100,Barranquilla,28,Si,4 a 8,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Servicios a domicilio \na través de \nplataforma digital,Distancia - tiempo del domicilio ,Smartphone
+101,Bogota,47,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de plataforma digital,Servicios a domicilio \na través de \nplataforma digital,Precio,Smartphone
+102,Estado de México ,23,Si,2 a 4,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,Servicios a domicilio \na través de \nllamada telefónica,,Smartphone
+103,Bogotá,17,Si,2 a 4,Si,Distancia - Tiempo de Domicilio-Calidad-Precio-,Servicios a domicilio a través de plataforma digital,Servicios a domicilio \na través de \nplataforma digital,Precio,Smartphone
+104,Tunja,44,Si,4 a 8,Si,Calidad-Precio-Distancia - Tiempo de Domicilio-,Servicios a domicilio a través de llamada telefónica ,Servicios a domicilio \na través de \nllamada telefónica,,Computador de mesa 
+105,Bogota,29,Si,1,Si,Precio-Distancia - Tiempo de Domicilio-Calidad-,Servicios a domicilio a través de plataforma digital,Servicios a domicilio \na través de \nplataforma digital,Precio,Portatil
+106,Bogotá,31,Si,2 a 4,Si,Precio-Distancia - Tiempo de Domicilio-Calidad-,Presencial en el punto de venta,Presencial en \nel punto de venta,,Computador de mesa 
+79,Galapa,20,Si,2 a 4,No,,Presencial en el punto de venta,Presencial en \nel punto de venta,,Smartphone
+84,Barranquilla,26,Si,2 a 4,No,,Servicios a domicilio a través de llamada telefónica ,Servicios a domicilio \na través de \nllamada telefónica,,Smartphone
+98,Popayán,23,Si,2 a 4,No,,Presencial en el punto de venta,Presencial en \nel punto de venta,,Portatil
